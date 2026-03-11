@@ -1,2 +1,7 @@
-# Fearing-Gorilla-Rigs
-Fearing Gorilla Rigs from the Revamp
+THIS IS AN UN-OFFICIAL FEARING GORILLA RIG THAT WAS MADE FOR ANIMATION, PFPS, OR FOR WHATEVER.
+
+I WILL TRY TO UPDATE THIS RIG AS MUCH AS I CAN.
+
+PLEASE VIEW THE GITHUB PAGE :
+
+https://github.com/astradiscordd/Fearing-Gorilla-Rigs
